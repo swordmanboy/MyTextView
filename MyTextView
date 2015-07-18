@@ -1,0 +1,59 @@
+package project.accountbooking.apinun.accountbooking.view;
+
+import android.annotation.TargetApi;
+import android.content.Context;
+import android.content.res.TypedArray;
+import android.graphics.Typeface;
+import android.os.Build;
+import android.util.AttributeSet;
+import android.util.Log;
+import android.widget.TextView;
+
+import project.accountbooking.apinun.accountbooking.R;
+
+/**
+ * Created by Apinun on 18/7/2558.
+ */
+public class MyTextView extends TextView {
+    public MyTextView(Context context) {
+        super(context);
+    }
+
+    public MyTextView(Context context, AttributeSet attrs) {
+        super(context, attrs);
+        if(isInEditMode())
+            return;
+
+        TypedArray ta = context.obtainStyledAttributes(attrs, R.styleable.FontText);
+
+
+        if (ta != null) {
+            String fontAsset = ta.getString(R.styleable.FontText_typefaceAsset);
+
+            if (!fontAsset.equalsIgnoreCase("")) {
+                Typeface tf = FontManager.init(context.getAssets()).getFont(fontAsset);
+                int style = Typeface.NORMAL;
+                float size = getTextSize();
+
+                if (getTypeface() != null)
+                    style = getTypeface().getStyle();
+
+                if (tf != null)
+                    setTypeface(tf, style);
+                else
+                    Log.d("FontText", String.format("Could not create a font from asset: %s", fontAsset));
+            }
+        }
+    }
+
+    public MyTextView(Context context, AttributeSet attrs, int defStyleAttr) {
+        super(context, attrs, defStyleAttr);
+
+
+    }
+
+    @TargetApi(Build.VERSION_CODES.LOLLIPOP)
+    public MyTextView(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {
+        super(context, attrs, defStyleAttr, defStyleRes);
+    }
+}
