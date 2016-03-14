@@ -1,0 +1,773 @@
+[
+    {
+        "RadioGroupName": "กรุงเทพมหานคร",
+        "data": [
+            {
+                "realLink": "rtmp://202.57.162.55:1935/live05&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/875.png",
+                "link": "popupfm.php?station=station875",
+                "fre" : "87.5",
+                "name": "วิทยุรัฐสภา",
+                "id": 0
+            },
+            {
+                "realLink": "=http://prdonline.prd.go.th:8200/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/880.png",
+                "link": "popupfm.php?station=station880",
+                "fre" : "88.0",
+                "name": "วิทยุภาษาอังกฤษ",
+                "id": 1
+            },
+            {
+                "realLink": "=http://icecast.piesoft.net:8000/kreenjairadio&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/8825.png",
+                "link": "popupfm.php?station=station8825",
+                "fre" : "88.25",
+                "name": "คลื่นใจมวลชน",
+                "id": 2
+            },
+            {
+                "realLink": "rtmp://202.142.207.150/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/885.png",
+                "link": "popupfm.php?station=station885",
+                "fre" : "88.5",
+                "name": "สบายดี เรดิโอ",
+                "id": 3
+            },
+            {
+                "realLink": "rtmp://real3.atimemedia.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/890.png",
+                "link": "popupfm.php?station=station890",
+                "fre" : "89.0",
+                "name": "89 Chill FM",
+                "id": 4
+            },
+            {
+                "realLink": "=http://radiom.spicymkt.com:1180/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/895.png",
+                "link": "popupfm.php?station=station895",
+                "fre" : "89.5",
+                "name": "89.5 Sweet FM",
+                "id": 5
+            },
+            {
+                "realLink": "=http://radio3.spicymkt.com:8920/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/900.png",
+                "link": "popupfm.php?station=station900",
+                "fre" : "90.0",
+                "name": "90 ลูกทุ่ง รักไทย",
+                "id": 6
+            },
+            {
+                "realLink": "rtmp://202.170.127.190/rtplive&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/905.png",
+                "link": "popupfm.php?station=station905",
+                "fre" : "90.5",
+                "name": "nation fm",
+                "id": 7
+            },
+            {
+                "realLink": "=http://203.158.239.184:8000/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/rmutp.png",
+                "link": "popupfm.php?station=stationrmutp",
+                "fre" : "90.75",
+                "name": "RMUTP",
+                "id": 8
+            },
+            {
+                "realLink": "=http://122.155.16.48:8955/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/910.png",
+                "link": "popupfm.php?station=station910",
+                "fre" : "91.0",
+                "name": "สวพ fm",
+                "id": 9
+            },
+            {
+                "realLink": "=http://stream.freszfm.com:8000/Radio_fresz915FM.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/915.png",
+                "link": "popupfm.php?station=station915",
+                "fre" : "91.5",
+                "name": "Fresz FM",
+                "id": 10
+            },
+            {
+                "realLink": "=http://prdonline.prd.go.th:8202/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/925.png",
+                "link": "popupfm.php?station=station925",
+                "fre" : "91.5",
+                "name": "92.5 กรมประชาสัมพันธ์",
+                "id": 11
+            },
+            {
+                "realLink": "=http://111.223.51.8:8600/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/930.png",
+                "link": "popupfm.php?station=station930",
+                "fre" : "93",
+                "name": "Cool Fahrenheit",
+                "id": 12
+            },
+            {
+                "realLink": "=http://prdonline.prd.go.th:8204/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/935.png",
+                "link": "popupfm.php?station=station935",
+                "fre" : "93.5",
+                "name": "Happy Time",
+                "id": 13
+            },
+            {
+                "realLink": "rtmp://live11.netdesignhost.com/j-channellive&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/9375.png",
+                "link": "popupfm.php?station=station9375",
+                "fre" : "93.75",
+                "name": "J Channel",
+                "id": 14
+            },
+            {
+                "realLink": "rtmp://real3.atimemedia.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/940.png",
+                "link": "popupfm.php?station=station940",
+                "fre" : "94.0",
+                "name": "EFM",
+                "id": 15
+            },
+            {
+                "realLink": "=http://radio2.spicymkt.com:8814/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/945.png",
+                "link": "popupfm.php?station=station945",
+                "fre" : "94.5",
+                "name": "ลูกทุ่งเน็ตเวิร์ก",
+                "id": 16
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/950.png",
+                "link": "popupfm.php?station=station950",
+                "fre" : "95.0",
+                "name": "ลูกทุ่งมหานคร",
+                "id": 17
+            },
+            {
+                "realLink": "rtmp://streaming.becteroradio.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/955.png",
+                "link": "popupfm.php?station=station955",
+                "fre" : "95.5",
+                "name": "Virgin Hitz",
+                "id": 18
+            },
+            {
+                "realLink": "=http://radio.hostinglotus.com:6108/;stream.nsv&type=sound&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/9575.png",
+                "link": "popupfm.php?station=station9575",
+                "fre" : "95.75",
+                "name": "Knowledge",
+                "id": 19
+            },
+            {
+                "realLink": "=http://110.164.48.215:8000/smmradio&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/960.png",
+                "link": "popupfm.php?station=station960",
+                "fre" : "96.0",
+                "name": "Sport Radio",
+                "id": 20
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/965.png",
+                "link": "popupfm.php?station=station965",
+                "fre" : "96.5",
+                "name": "คลื่นความคิด",
+                "id": 21
+            },
+            {
+                "realLink": "=97qfmradio&volume=100&streamer=http://prdonline.prd.go.th:8208/;stream.mp3&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/970.png",
+                "link": "popupfm.php?station=station970",
+                "fre" : "97.0",
+                "name": "สถานีข่าวคุณภาพ",
+                "id": 22
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/975.png",
+                "link": "popupfm.php?station=station975",
+                "fre" : "97.5",
+                "name": "Seed FM",
+                "id": 23
+            },
+            {
+                "realLink": "rtmp://streaming.becteroradio.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/980.png",
+                "link": "popupfm.php?station=station980",
+                "fre" : "98.0",
+                "name": "Virgin Star",
+                "id": 24
+            },
+            {
+                "realLink": "rtmp://mobile.springnews.co.th/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/985.png",
+                "link": "popupfm.php?station=station985",
+                "fre" : "98.5",
+                "name": "Spring Radio",
+                "id": 25
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/990.png",
+                "link": "popupfm.php?station=station990",
+                "fre" : "99.0",
+                "name": "Sport Radio",
+                "id": 26
+            },
+            {
+                "realLink": "rtmp://live3.netdesignhost.com/trs995live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/995.png",
+                "link": "popupfm.php?station=station995",
+                "fre" : "99.5",
+                "name": "จราจรเพื่อสังคม",
+                "id": 27
+            },
+            {
+                "realLink": "rtmp://live11.netdesignhost.com/pacificlive&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1000.png",
+                "link": "popupfm.php?station=station1000",
+                "fre" : "100.0",
+                "name": "จส 100",
+                "id": 28
+            },
+            {
+                "realLink": "=http://icecast.piesoft.net:8000/ufmradio&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/10025.png",
+                "link": "popupfm.php?station=station10025",
+                "fre" : "100.25",
+                "name": "UFM",
+                "id": 29
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1005.png",
+                "link": "popupfm.php?station=station1005",
+                "fre" : "100.5",
+                "name": "สถานีข่าว",
+                "id": 30
+            },
+            {
+                "realLink": "rtmp://210.1.60.208/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1010.png",
+                "link": "popupfm.php?station=station1010",
+                "fre" : "101.0",
+                "name": "101 RR One",
+                "id": 31
+            },
+            {
+                "realLink": "=http://161.200.134.5:80/curadiolive128&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1015.png",
+                "link": "popupfm.php?station=station1015",
+                "fre" : "101.5",
+                "name": "วิทยุจุฬาฯ",
+                "id": 32
+            },
+            {
+                "realLink": "rtmp://202.170.127.190/rtplive&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1020.png",
+                "link": "popupfm.php?station=station1020",
+                "fre" : "102.0",
+                "name": "คนทำงาน",
+                "id": 33
+            },
+            {
+                "realLink": "=http://radioiradio1.spicymkt.com:9126/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1025.png",
+                "link": "popupfm.php?station=station1025",
+                "fre" : "102.5",
+                "name": "Get FM",
+                "id": 34
+            },
+            {
+                "realLink": "rtmp://radio.livecache.org/radio&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1030.png",
+                "link": "popupfm.php?station=station1030",
+                "fre" : "103.0",
+                "name": "Like FM",
+                "id": 35
+            },
+            {
+                "realLink": "=http://radioiradio1.spicymkt.com:9128/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1035.png",
+                "link": "popupfm.php?station=station1035",
+                "fre" : "103.5",
+                "name": "FM One",
+                "id": 36
+            },
+            {
+                "realLink": "=http://radioiradio1.spicymkt.com:9130/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1045.png",
+                "link": "popupfm.php?station=station1045",
+                "fre" : "104.5",
+                "name": "Love Radio",
+                "id": 37
+            },
+            {
+                "realLink": "=http://helix-r2.prd.go.th/nbtradio/live_fm105_132.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1050.png",
+                "link": "popupfm.php?station=station1050",
+                "fre" : "105.0",
+                "name": "วิทยุไทย",
+                "id": 38
+            },
+            {
+                "realLink": "rtmp://streaming.becteroradio.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1055.png",
+                "link": "popupfm.php?station=station1055",
+                "fre" : "105.5",
+                "name": "Eazy FM",
+                "id": 39
+            },
+            {
+                "realLink": "rtmp://streaming.becteroradio.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1060.png",
+                "link": "popupfm.php?station=station1060",
+                "fre" : "106.0",
+                "name": "ครอบครัวข่าว",
+                "id": 40
+            },
+            {
+                "realLink": "rtmp://real5.atimemedia.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1065.png",
+                "link": "popupfm.php?station=station1065",
+                "fre" : "106.5",
+                "name": "Green",
+                "id": 41
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/1070.png",
+                "link": "popupfm.php?station=station1070",
+                "fre" : "107.0",
+                "name": "MET",
+                "id": 42
+            },
+            {
+                "realLink": "=http://prdonline.prd.go.th:8018/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/education.png",
+                "link": "popupfm.php?station=education",
+                "fre" : "สวศ education",
+                "name": "สวศ education",
+                "id": 43
+            },
+            {
+                "realLink": "rtmp://vip.login.in.th/kuradiobk&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/kuradio.png",
+                "link": "popupfm.php?station=kuradio",
+                "fre" : "สถานีวิทยุ ม.ก",
+                "name": "สถานีวิทยุ ม.ก.",
+                "id": 44
+            },
+            {
+                "realLink": "=http://helix-r2.prd.go.th/nbtradio/live_am891_43.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/am891.png",
+                "link": "popupfm.php?station=stationam891",
+                "fre" : "ฟังหวยออนไลน",
+                "name": "ฟังหวยออนไลน์",
+                "id": 45
+            },
+            {
+                "realLink": "=http://prdonline.prd.go.th:8214/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/am837.png",
+                "link": "popupfm.php?station=stationam837",
+                "fre": "วิทยุเพื่อการศึกษา",
+                "name": "วิทยุเพื่อการศึกษา",
+                "id": 46
+            },
+            {
+                "realLink": "=http://helix-r2.prd.go.th/nbtradio/live_am918_44.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/am918.png",
+                "link": "popupfm.php?station=stationam918",
+                "fre": "วิทยุภาษาอาเซียน",
+                "name": "วิทยุภาษาอาเซียน",
+                "id": 47
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/am1143.png",
+                "link": "popupfm.php?station=stationam1143",
+                "fre": "คลื่นเพื่อนร่วมทา",
+                "name": "คลื่นเพื่อนร่วมทาง",
+                "id": 48
+            },
+            {
+                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/am1494.png",
+                "link": "popupfm.php?station=stationam1494",
+                "fre": "คลื่นความรู้คู่คุณธรรม",
+                "name": "คลื่นความรู้คู่คุณธรรม",
+                "id": 49
+            },
+            {
+                "realLink": "=http://58.137.192.140:8080/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/am1575.png",
+                "link": "popupfm.php?station=stationam1575",
+                "fre": "วิทยุสราญรมย์",
+                "name": "วิทยุสราญรมย์",
+                "id": 50
+            }
+        ]
+    },
+    {
+        "RadioGroupName": "อินเตอร์เน็ต",
+        "data": [
+            {
+                "realLink": "=http://thaihealth.cloudapp.net:8010/okhook&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/okhot.png",
+                "link": "popupfm.php?station=stationokhot",
+                "fre": "OK HOOK",
+                "name": "OK HOOK",
+                "id": 0
+            },
+            {
+                "realLink": "=http://thaihealth.cloudapp.net:8010/oklove&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/oklove.png",
+                "link": "popupfm.php?station=stationoklove",
+                "fre": "OK LOVE",
+                "name": "OK LOVE",
+                "id": 1
+            },
+            {
+                "realLink": "=http://thaihealth.cloudapp.net:8010/oklt&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/okluktung.png",
+                "link": "popupfm.php?station=stationokluktung",
+                "fre": "OK ลูกทุ่ง",
+                "name": "OK ลูกทุ่ง",
+                "id": 2
+            },
+            {
+                "realLink": "rtmp://streaming.becteroradio.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/rockonradio.png",
+                "link": "popupfm.php?station=rockonradio",
+                "fre": "Rock On Radio",
+                "name": "Rock On Radio",
+                "id": 3
+            },
+            {
+                "realLink": "rtmp://streaming.becteroradio.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/radradio.png",
+                "link": "popupfm.php?station=radradio",
+                "fre": "Rad Radio",
+                "name": "Rad Radio",
+                "id": 4
+            },
+            {
+                "realLink": "rtmp://streaming.becteroradio.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/tofupopradio.png",
+                "link": "popupfm.php?station=tofupopradio",
+                "fre": "Tofu Pop Radio",
+                "name": "Tofu Pop Radio",
+                "id": 5
+            },
+            {
+                "realLink": "=http://radio.hostinglotus.com:6028/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/sosradio.png",
+                "link": "popupfm.php?station=sosradio",
+                "fre": "SOS Radio",
+                "name": "SOS Radio",
+                "id": 6
+            },
+            {
+                "realLink": "=http://27.254.32.105:8000/mall.mp3&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/mradio.png",
+                "link": "popupfm.php?station=stationmradio",
+                "fre": "M Radio",
+                "name": "M Radio",
+                "id": 7
+            },
+            {
+                "realLink": "=http://media.login.in.th:1120/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/thestyleplayradio.png",
+                "link": "popupfm.php?station=thestyleplayradio",
+                "fre": "The Style Play Radio",
+                "name": "The Style Play Radio",
+                "id": 8
+            },
+            {
+                "realLink": "=http://112.121.150.133:8028/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/elecdio.png",
+                "link": "popupfm.php?station=elecdio",
+                "fre": "Elecdio",
+                "name": "Elecdio",
+                "id": 9
+            },
+            {
+                "realLink": "=http://catradio.mylive.in.th:8000/live&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/catradio.png",
+                "link": "popupfm.php?station=catradio",
+                "fre": "Cat Radio",
+                "name": "Cat Radio",
+                "id": 10
+            },
+            {
+                "realLink": "=http://radioiradio1.spicymkt.com:9154/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/clickiconic.png",
+                "link": "popupfm.php?station=clickiconic",
+                "fre": "Click Iconic",
+                "name": "Click Iconic",
+                "id": 11
+            },
+            {
+                "realLink": "=http://radio.wink.in.th/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/wink.png",
+                "link": "popupfm.php?station=wink",
+                "fre": "Wink Radio",
+                "name": "Wink Radio",
+                "id": 12
+            },
+            {
+                "realLink": "=http://radio2.serverradio.net:8444/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/isanradio.png",
+                "link": "popupfm.php?station=isanradio",
+                "fre": "อีสานเรดิโอ เพลงอีสาน",
+                "name": "อีสานเรดิโอ เพลงอีสาน",
+                "id": 13
+            },
+            {
+                "realLink": "=http://catradio1.mylive.in.th:9000/live&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/luktungeasy.png",
+                "link": "popupfm.php?station=luktungeasy",
+                "fre": "ลูกทุ่งอีซี่",
+                "name": "ลูกทุ่งอีซี่",
+                "id": 14
+            },
+            {
+                "realLink": "=http://rcp.plathong.net:7336/;stream.nsv&type=sound&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/radiosociety.png",
+                "link": "popupfm.php?station=stationradiosociety",
+                "fre": "Radio Society",
+                "name": "Radio Society",
+                "id": 15
+            },
+            {
+                "realLink": "=http://sv1.ezyradio.net:9000/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ezyradiohit.png",
+                "link": "popupfm.php?station=ezyradiohit",
+                "fre": "Ezy Radio Hit",
+                "name": "Ezy Radio Hit",
+                "id": 16
+            },
+            {
+                "realLink": "=http://sv2.ezyradio.net:9002/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ezyradiolookthung.png",
+                "link": "popupfm.php?station=ezyradiolookthung",
+                "fre": "Ezy Radio Lookthung",
+                "name": "Ezy Radio Lookthung",
+                "id": 17
+            },
+            {
+                "realLink": "=http://sv3.ezyradio.net:9004/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ezyradiointer.png",
+                "link": "popupfm.php?station=ezyradiointer",
+                "fre": "Ezy Radio Inter",
+                "name": "Ezy Radio Inter",
+                "id": 18
+            },
+            {
+                "realLink": "=http://sv4.ezyradio.net:9006/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ezyradiolife.png",
+                "link": "popupfm.php?station=ezyradiolife",
+                "fre": "Ezy Radio Life",
+                "name": "Ezy Radio Life",
+                "id": 19
+            },
+            {
+                "realLink": "=http://sv5.ezyradio.net:9008/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ezyradioold.png",
+                "link": "popupfm.php?station=ezyradioold",
+                "fre": "Ezy Radio Old",
+                "name": "Ezy Radio Old",
+                "id": 20
+            },
+            {
+                "realLink": "=http://sv6.ezyradio.net:9010/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ezyradiohouse.png",
+                "link": "popupfm.php?station=ezyradiohouse",
+                "fre": "Ezy Radio House",
+                "name": "Ezy Radio House",
+                "id": 21
+            },
+            {
+                "realLink": "=http://112.121.150.133:8122/autodj&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/musichitz.png",
+                "link": "popupfm.php?station=musichitz",
+                "fre": "Musichitz เพลงสตริง",
+                "name": "Musichitz เพลงสตริง",
+                "id": 22
+            },
+            {
+                "realLink": "=http://112.121.150.133:9386/autodj&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/musichitzlooktung.png",
+                "link": "popupfm.php?station=musichitzlooktung",
+                "fre": "Musichitz เพลงลูกทุ่ง",
+                "name": "Musichitz เพลงลูกทุ่ง",
+                "id": 23
+            },
+            {
+                "realLink": "=http://112.121.150.133:8006/autodj&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/musichitzinter.png",
+                "link": "popupfm.php?station=musichitzinter",
+                "fre": "Musichitz เพลงสากล",
+                "name": "Musichitz เพลงสากล",
+                "id": 24
+            },
+            {
+                "realLink": "=http://112.121.150.133:8022/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ondioold.png",
+                "link": "popupfm.php?station=ondioold",
+                "fre": "Ondio เพลงเก่า",
+                "name": "Ondio เพลงเก่า",
+                "id": 25
+            },
+            {
+                "realLink": "=http://112.121.150.133:8020/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ondionew.png",
+                "link": "popupfm.php?station=ondionew",
+                "fre": "Ondio เพลงใหม่",
+                "name": "Ondio เพลงใหม่",
+                "id": 26
+            },
+            {
+                "realLink": "=http://112.121.150.133:8024/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/ondiolooktung.png",
+                "link": "popupfm.php?station=ondiolooktung",
+                "fre": "Ondio เพลงลูกทุ่ง",
+                "name": "Ondio เพลงลูกทุ่ง",
+                "id": 27
+            },
+            {
+                "realLink": "=http://58.97.24.221/0096&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/grow.png",
+                "link": "popupfm.php?station=grow",
+                "fre": "Grow Radio",
+                "name": "Grow Radio",
+                "id": 28
+            },
+            {
+                "realLink": "=http://live.smiledj.net:8006/audio&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/radio.png",
+                "link": "popupfm.php?station=stationradiointh",
+                "fre": "radio in thailand",
+                "name": "radio in thailand",
+                "id": 29
+            },
+            {
+                "img": "logo/fusionradio.png",
+                "link": "popupfm.php?station=stationfusionradio",
+                "fre": "Fusion Radio",
+                "name": "Fusion Radio",
+                "id": 30
+            }
+        ]
+    },
+    {
+        "RadioGroupName": "ต่างจังหวัด",
+        "data": [
+            {
+                "realLink": "=http://radio.boxfmthailand.com:8825/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/8825boxfm.png",
+                "link": "popupfm.php?station=station8825boxfm",
+                "fre": "88.25 ลําปาง",
+                "name": "88.25 ลําปาง",
+                "id": 0
+            },
+            {
+                "realLink": "=http://server1.thairadioservice.com:8132/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/8825nakhonmusic.png",
+                "link": "popupfm.php?station=station8825nakhonmusic",
+                "fre": "88.25 ชะอวด",
+                "name": "88.25 ชะอวด",
+                "id": 1
+            },
+            {
+                "realLink": "=http://rcp2.plathong.net:8416/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/smooth.png",
+                "link": "popupfm.php?station=smooth",
+                "fre": "89.25 Smooth Radio",
+                "name": "89.25 Smooth Radio",
+                "id": 2
+            },
+            {
+                "realLink": "=http://112.121.150.133:9626/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/surf935.png",
+                "link": "popupfm.php?station=surf935",
+                "fre": "Surf 93.5 FM ระยอง",
+                "name": "Surf 93.5 FM ระยอง",
+                "id": 3
+            },
+            {
+                "img": "logo/9875modern.png",
+                "link": "popupfm.php?station=station9875modern",
+                "fre": "98.75 เชียงใหม่",
+                "name": "98.75 เชียงใหม่",
+                "id": 4
+            },
+            {
+                "img": "logo/10275greetzroirang.png",
+                "link": "popupfm.php?station=station10275greetzroirang",
+                "fre": "102.75 พัทลุง",
+                "name": "102.75 พัทลุง",
+                "id": 5
+            },
+            {
+                "realLink": "=http://radio4.thzhost.com:8510/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/greetzexclusive.png",
+                "link": "popupfm.php?station=stationgreetzexclusive",
+                "fre": "Greetz Exclusive",
+                "name": "Greetz Exclusive",
+                "id": 6
+            },
+            {
+                "img": "logo/sangjan.png",
+                "link": "popupfm.php?station=sangjan",
+                "fre": "แสงจันทร์ เรดิโอ",
+                "name": "แสงจันทร์ เรดิโอ",
+                "id": 7
+            },
+            {
+                "realLink": "=http://icecast.piesoft.net:8000/pat128&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/sunshineradio10775pattaya.png",
+                "link": "popupfm.php?station=sunshineradio10775pattaya",
+                "fre": "Sunshine Radio",
+                "name": "Sunshine Radio",
+                "id": 8
+            },
+            {
+                "realLink": "=http://203.146.129.246:4090/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/medeefm.png",
+                "link": "popupfm.php?station=stationmedeefm",
+                "fre": "Medee FM",
+                "name": "Medee FM",
+                "id": 9
+            },
+            {
+                "realLink": "rtmp://live10.netdesignhost.com/975peacefmlive&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/peacefm.png",
+                "link": "popupfm.php?station=stationpeacefm",
+                "fre": "Peace FM",
+                "name": "Peace FM",
+                "id": 10
+            },
+            {
+                "realLink": "=http://122.155.6.190:9200/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/jaiyenyenfm.png",
+                "link": "popupfm.php?station=stationjaiyenyenfm",
+                "fre": "ใจเย็นเย็น FM",
+                "name": "ใจเย็นเย็น FM",
+                "id": 11
+            },
+            {
+                "realLink": "=http://okstation.no-ip.biz:9394/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "img": "logo/sarika.png",
+                "link": "popupfm.php?station=stationsarika",
+                "fre": "แก้วสาริกา radio",
+                "name": "แก้วสาริกา radio",
+                "id": 12
+            }
+        ]
+    }
+]
