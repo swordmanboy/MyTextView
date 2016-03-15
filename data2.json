@@ -11,7 +11,7 @@
                 "id": 0
             },
             {
-                "realLink": "=http://prdonline.prd.go.th:8200/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://prdonline.prd.go.th:8200/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
                 "img": "logo/880.png",
                 "link": "popupfm.php?station=station880",
                 "fre" : "88.0",
@@ -19,7 +19,7 @@
                 "id": 1
             },
             {
-                "realLink": "=http://icecast.piesoft.net:8000/kreenjairadio&type=mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://icecast.piesoft.net:8000/kreenjairadio",
                 "img": "logo/8825.png",
                 "link": "popupfm.php?station=station8825",
                 "fre" : "88.25",
@@ -27,7 +27,7 @@
                 "id": 2
             },
             {
-                "realLink": "rtmp://202.142.207.150/live&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "rtmp://202.142.207.150/live&autostart=true&repeat=always&stretching=exactfit**",
                 "img": "logo/885.png",
                 "link": "popupfm.php?station=station885",
                 "fre" : "88.5",
@@ -35,7 +35,7 @@
                 "id": 3
             },
             {
-                "realLink": "rtmp://real3.atimemedia.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "rtmp://real3.atimemedia.com:1935/live/chill.sdp",
                 "img": "logo/890.png",
                 "link": "popupfm.php?station=station890",
                 "fre" : "89.0",
@@ -43,7 +43,7 @@
                 "id": 4
             },
             {
-                "realLink": "=http://radiom.spicymkt.com:1180/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://radiom.spicymkt.com:1180",
                 "img": "logo/895.png",
                 "link": "popupfm.php?station=station895",
                 "fre" : "89.5",
@@ -51,7 +51,7 @@
                 "id": 5
             },
             {
-                "realLink": "=http://radio3.spicymkt.com:8920/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://radio3.spicymkt.com:8920/",
                 "img": "logo/900.png",
                 "link": "popupfm.php?station=station900",
                 "fre" : "90.0",
@@ -59,7 +59,7 @@
                 "id": 6
             },
             {
-                "realLink": "rtmp://202.170.127.190/rtplive&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "rtmp://202.170.127.190/rtplive&autostart=true&repeat=always&stretching=exactfit***",
                 "img": "logo/905.png",
                 "link": "popupfm.php?station=station905",
                 "fre" : "90.5",
@@ -67,7 +67,7 @@
                 "id": 7
             },
             {
-                "realLink": "=http://203.158.239.184:8000/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://203.158.239.184:8000/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
                 "img": "logo/rmutp.png",
                 "link": "popupfm.php?station=stationrmutp",
                 "fre" : "90.75",
@@ -75,7 +75,7 @@
                 "id": 8
             },
             {
-                "realLink": "=http://122.155.16.48:8955/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://122.155.16.48:8955",
                 "img": "logo/910.png",
                 "link": "popupfm.php?station=station910",
                 "fre" : "91.0",
@@ -83,7 +83,7 @@
                 "id": 9
             },
             {
-                "realLink": "=http://stream.freszfm.com:8000/Radio_fresz915FM.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://stream.freszfm.com:8000/Radio_fresz915FM.mp3",
                 "img": "logo/915.png",
                 "link": "popupfm.php?station=station915",
                 "fre" : "91.5",
@@ -91,7 +91,7 @@
                 "id": 10
             },
             {
-                "realLink": "=http://prdonline.prd.go.th:8202/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://prdonline.prd.go.th:8202/;stream.mp3",
                 "img": "logo/925.png",
                 "link": "popupfm.php?station=station925",
                 "fre" : "91.5",
@@ -99,7 +99,7 @@
                 "id": 11
             },
             {
-                "realLink": "=http://111.223.51.8:8600/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://111.223.51.8:8600",
                 "img": "logo/930.png",
                 "link": "popupfm.php?station=station930",
                 "fre" : "93",
@@ -107,7 +107,7 @@
                 "id": 12
             },
             {
-                "realLink": "=http://prdonline.prd.go.th:8204/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://prdonline.prd.go.th:8204",
                 "img": "logo/935.png",
                 "link": "popupfm.php?station=station935",
                 "fre" : "93.5",
@@ -115,7 +115,7 @@
                 "id": 13
             },
             {
-                "realLink": "rtmp://live11.netdesignhost.com/j-channellive&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "",
                 "img": "logo/9375.png",
                 "link": "popupfm.php?station=station9375",
                 "fre" : "93.75",
@@ -123,7 +123,7 @@
                 "id": 14
             },
             {
-                "realLink": "rtmp://real3.atimemedia.com/live&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "rtmp://real3.atimemedia.com/live",
                 "img": "logo/940.png",
                 "link": "popupfm.php?station=station940",
                 "fre" : "94.0",
@@ -131,7 +131,7 @@
                 "id": 15
             },
             {
-                "realLink": "=http://radio2.spicymkt.com:8814/;stream.mp3&volume=100&streamer=&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "http://radio2.spicymkt.com:8814",
                 "img": "logo/945.png",
                 "link": "popupfm.php?station=station945",
                 "fre" : "94.5",
@@ -139,7 +139,7 @@
                 "id": 16
             },
             {
-                "realLink": "rtmp://lb-media.mcot.net:1935/MCOTRadio/&autostart=true&repeat=always&stretching=exactfit",
+                "realLink": "",
                 "img": "logo/950.png",
                 "link": "popupfm.php?station=station950",
                 "fre" : "95.0",
